@@ -16,9 +16,9 @@ const wordLists = {
   { word: "unfit", definition: "not in good health or not suitable", examples: ["He was ______ to run.", "That toy is ______ for babies."] },
   { word: "unhealthy", definition: "not healthy", examples: ["Eating too much cake is ______.", "That snack is ______."] },
   { word: "untidy", definition: "not neat or clean", examples: ["Your room is ______.", "Pick up these ______ clothes."] },
-  { word: "unusual", definition: "not common or normal", examples: ["That’s an ______ pet.", "She wore an ______ dress."] },
+  { word: "unusual", definition: "not common or normal", examples: ["That's an ______ pet.", "She wore an ______ dress."] },
   { word: "unpopular", definition: "not liked by many", examples: ["The rule was ______.", "He was ______ at school."] },
-  { word: "untrained", definition: "not taught or prepared", examples: ["The dog is still ______.", "I’m ______ for that job."] }
+  { word: "untrained", definition: "not taught or prepared", examples: ["The dog is still ______.", "I'm ______ for that job."] }
 ],
 
 "Summer 1 Week 6": [
