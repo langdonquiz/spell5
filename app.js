@@ -595,6 +595,31 @@ const wordLists = {
   { word: "darkest", definition: "most dark", examples: ["This is the ______ hour.", "The ______ part of the cave was scary."] }
 ],
 
+"Summer 1 Week 4": [
+  { word: "unhappy", definition: "not happy", examples: ["She looked ______ today.", "He felt ______ about the test."] },
+  { word: "unfair", definition: "not fair", examples: ["That rule is ______!", "It is ______ to cheat."] },
+  { word: "unarmed", definition: "not carrying weapons", examples: ["The man was ______.", "The guards were ______ at the gate."] },
+  { word: "unfasten", definition: "to undo or open something", examples: ["Please ______ your coat.", "He tried to ______ the buttons."] },
+  { word: "unwell", definition: "not feeling well", examples: ["I feel ______ today.", "She stayed home because she was ______."] },
+  { word: "undo", definition: "to take back or reverse", examples: ["Can you ______ the knot?", "Click here to ______ your last move."] },
+  { word: "unlock", definition: "to open a lock", examples: ["I will ______ the door.", "She forgot how to ______ her phone."] },
+  { word: "unbolt", definition: "to slide a bolt open", examples: ["He tried to ______ the gate.", "______ the door from inside."] },
+  { word: "unknown", definition: definition: "not known or familiar", examples: ["We took an ______ path.", "An ______ number called me."] },
+  { word: "unable", definition: "not able to do something", examples: ["I was ______ to lift it.", "He is ______ to attend."] },
+  { word: "unload", definition: "to take things out", examples: ["Time to ______ the car.", "We ______ the boxes from the van."] },
+  { word: "unfold", definition: "to open something folded", examples: ["Please ______ your map.", "She ______ the blanket."] },
+  { word: "unfit", definition: "not in good health or not suitable", examples: ["He was ______ to run.", "That toy is ______ for babies."] },
+  { word: "unhealthy", definition: "not healthy", examples: ["Eating too much cake is ______.", "That snack is ______."] },
+  { word: "untidy", definition: "not neat or clean", examples: ["Your room is ______.", "Pick up these ______ clothes."] },
+  { word: "unusual", definition: "not common or normal", examples: ["That is an ______ pet.", "She wore an ______ dress."] },
+  { word: "unpopular", definition: "not liked by many", examples: ["The rule was ______.", "He was ______ at school."] },
+  { word: "untrained", definition: "not taught or prepared", examples: ["The dog is still ______.", "I am ______ for that job."] }
+],
+
+
+
+
+
 
 
 
