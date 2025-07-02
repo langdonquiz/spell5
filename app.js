@@ -104,6 +104,26 @@ const wordLists = {
   { word: "deal", definition: "an agreement or arrangement", examples: ["We made a ______ to share the toys.", "That’s a good ______ on the book."] }
 ],
 
+"Autumn 2 Week 1": [
+  { word: "her", definition: "used to talk about a girl or woman", examples: ["Give the book to ______.", "We saw ______ at the shop."] },
+  { word: "person", definition: "a human being", examples: ["She is a kind ______.", "Every ______ must line up."] },
+  { word: "summer", definition: "the warmest season of the year", examples: ["We go to the beach in ______.", "I love the sunny days of ______."] },
+  { word: "faster", definition: "moving more quickly", examples: ["She ran ______ than me.", "This car is ______ than that one."] },
+  { word: "rider", definition: "someone who is on a bike, horse, or vehicle", examples: ["The ______ wore a helmet.", "Each ______ had a number."] },
+  { word: "term", definition: "a part of the school year", examples: ["We are in the first ______.", "This ______ ends in December."] },
+  { word: "better", definition: "more good or improved", examples: ["I feel ______ today.", "That book is even ______ than the last."] },
+  { word: "winter", definition: "the coldest season of the year", examples: ["We wear coats in ______.", "It may snow during ______."] },
+  { word: "sharper", definition: "having a finer or more pointed edge", examples: ["This knife is ______ than that one.", "The pencil needs to be ______."] },
+  { word: "daughter", definition: "a female child of parents", examples: ["Their ______ is five years old.", "I saw her with her ______ at the park."] },
+  { word: "verb", definition: "a word that shows action or being", examples: ["'Run' is a ______.", "Can you find the ______ in the sentence?"] },
+  { word: "under", definition: "below something", examples: ["The cat is ______ the table.", "Look ______ your bed."] },
+  { word: "sister", definition: "a girl who has the same parents as you", examples: ["My ______ is older than me.", "He has one ______."] },
+  { word: "driver", definition: "a person who controls a vehicle", examples: ["The bus ______ was friendly.", "The ______ parked the car."] },
+  { word: "person", definition: "a human being", examples: ["Each ______ got a prize.", "He is a funny ______."] },
+  { word: "answer", definition: "a response to a question", examples: ["Please write your ______ clearly.", "He gave the wrong ______."] },
+  { word: "deliver", definition: "to bring something to a place", examples: ["They ______ letters every morning.", "I will ______ the package to your house."] },
+  { word: "answer", definition: "a response to a question", examples: ["She raised her hand with the ______.", "That is not the right ______."] }
+],
 
 
 
