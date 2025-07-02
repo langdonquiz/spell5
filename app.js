@@ -532,6 +532,68 @@ const wordLists = {
 
 
 
+"Summer 1 Week 1": [
+  { word: "cats", definition: "more than one cat", examples: ["The ______ chased a mouse.", "Two black ______ sat on the wall."] },
+  { word: "rocks", definition: "hard pieces of stone", examples: ["He picked up some ______.", "We found ______ by the river."] },
+  { word: "doors", definition: "openings to go in or out of a room or building", examples: ["Close all the ______.", "There were three ______ to choose from."] },
+  { word: "rulers", definition: "tools for measuring or people in charge", examples: ["We used our ______ in maths.", "Kings and queens are ______."] },
+  { word: "glasses", definition: "lenses worn to help see", examples: ["She wears ______ to read.", "I need new ______."] },
+  { word: "dogs", definition: "more than one dog", examples: ["The ______ barked loudly.", "Three ______ ran in the park."] },
+  { word: "thanks", definition: "a way to show you are thankful", examples: ["Give your ______ for the gift.", "He said '______' to the teacher."] },
+  { word: "bowls", definition: "round dishes for holding food", examples: ["We ate from clean ______.", "The ______ were full of soup."] },
+  { word: "books", definition: "things with pages and stories or facts", examples: ["She loves reading ______.", "There are lots of ______ in the library."] },
+  { word: "flowers", definition: "colourful parts of plants", examples: ["The ______ are blooming.", "He picked some ______."] },
+  { word: "spends", definition: "uses money or time", examples: ["She ______ time with her family.", "He ______ all his pocket money."] },
+  { word: "catches", definition: "grabs something moving", examples: ["He ______ the ball.", "She ______ the bus on time."] },
+  { word: "pencils", definition: "tools for writing or drawing", examples: ["Sharpen your ______.", "We used coloured ______."] },
+  { word: "bags", definition: "containers to carry things", examples: ["They packed their school ______.", "Put the shopping in ______."] },
+  { word: "trees", definition: "tall plants with trunks and branches", examples: ["The ______ lost their leaves.", "Birds live in the ______."] },
+  { word: "cooks", definition: "makes food", examples: ["Dad ______ dinner every night.", "She ______ pasta and sauce."] },
+  { word: "sits", definition: "rests on a chair or surface", examples: ["He ______ by the window.", "She ______ on the mat."] },
+  { word: "runs", definition: "moves quickly on foot", examples: ["He ______ fast in races.", "The dog ______ after the ball."] }
+],
+
+"Summer 1 Week 2": [
+  { word: "hunting", definition: "looking for animals or something to find", examples: ["They went ______ for treasure.", "The fox is ______ for food."] },
+  { word: "buzzing", definition: "making a humming sound", examples: ["The bees are ______ around.", "I hear ______ in my ear."] },
+  { word: "jumping", definition: "pushing yourself off the ground", examples: ["She is ______ on the trampoline.", "We were ______ over the rope."] },
+  { word: "washing", definition: "cleaning something", examples: ["Mum is ______ the clothes.", "He is ______ the dishes."] },
+  { word: "cleaning", definition: "making something clean", examples: ["We are ______ the floor.", "She is ______ her room."] },
+  { word: "hunter", definition: "someone who looks for animals", examples: ["The ______ waited quietly.", "A lion is a great ______."] },
+  { word: "buzzer", definition: "a device that makes a sound", examples: ["The ______ went off at lunch.", "Press the ______ to enter."] },
+  { word: "jumper", definition: "a piece of warm clothing or a person who jumps", examples: ["She wore a red ______.", "The long ______ won the race."] },
+  { word: "watered", definition: "gave water to", examples: ["He ______ the flowers.", "She ______ the garden."] },
+  { word: "cleaner", definition: "a person or thing that makes things clean", examples: ["The ______ cleaned the classroom.", "Get the glass ______."] },
+  { word: "hunted", definition: "looked for animals", examples: ["The wolf ______ in a pack.", "They ______ in the forest."] },
+  { word: "buzzed", definition: "made a humming sound", examples: ["The bee ______ by my ear.", "The alarm ______ loudly."] },
+  { word: "jumped", definition: "leapt into the air", examples: ["She ______ into the pool.", "He ______ over the rope."] },
+  { word: "watering", definition: "giving water to plants", examples: ["She is ______ the plants now.", "He spent time ______ the garden."] },
+  { word: "cleaned", definition: "made tidy or free from dirt", examples: ["I ______ my shoes.", "She ______ the table."] },
+  { word: "writing", definition: "putting words on paper", examples: ["He is ______ a story.", "I’m ______ a letter."] },
+  { word: "writer", definition: "a person who writes", examples: ["She is a famous ______.", "The ______ signed his book."] },
+  { word: "walking", definition: "moving on foot", examples: ["We are ______ to school.", "She enjoys ______ in the park."] }
+],
+
+"Summer 1 Week 3": [
+  { word: "grander", definition: "more impressive or big", examples: ["Her dress was even ______ than before.", "This house is ______ than ours."] },
+  { word: "freshest", definition: "most new or clean", examples: ["These are the ______ flowers.", "He picked the ______ apples."] },
+  { word: "cleaner", definition: "a person or thing that makes things clean", examples: ["The ______ wiped the windows.", "We need a ______ mop."] },
+  { word: "fastest", definition: "most quick", examples: ["That is the ______ car!", "She ran the ______."] },
+  { word: "calmer", definition: "more peaceful or quiet", examples: ["She felt ______ after a nap.", "The sea is ______ now."] },
+  { word: "fresher", definition: "more clean or new", examples: ["This fruit is ______ than that one.", "The air is ______ today."] },
+  { word: "quickest", definition: "most fast", examples: ["He gave the ______ answer.", "The ______ way is through here."] },
+  { word: "faster", definition: "more quick", examples: ["He runs ______ than me.", "That train is ______."] },
+  { word: "slowest", definition: "most slow", examples: ["He is the ______ in the race.", "This is the ______ day ever."] },
+  { word: "kinder", definition: "more nice or helpful", examples: ["She is ______ than him.", "We should be ______ to each other."] },
+  { word: "grandest", definition: "most grand or fancy", examples: ["This is the ______ room in the house.", "She wore her ______ dress."] },
+  { word: "quicker", definition: "more fast", examples: ["Be ______ next time.", "This way is ______."] },
+  { word: "cleanest", definition: "most clean", examples: ["That is the ______ plate.", "He won the award for the ______ room."] },
+  { word: "slower", definition: "more slow", examples: ["She walked ______ than him.", "This car is ______."] },
+  { word: "calmest", definition: "most calm or peaceful", examples: ["The lake is ______ in the morning.", "He is the ______ person I know."] },
+  { word: "lightest", definition: "least heavy", examples: ["This box is the ______.", "She carried the ______ bag."] },
+  { word: "darker", definition: "more dark", examples: ["The sky is getting ______.", "My coat is ______ than yours."] },
+  { word: "darkest", definition: "most dark", examples: ["This is the ______ hour.", "The ______ part of the cave was scary."] }
+],
 
 
 
