@@ -1,5 +1,47 @@
 const wordLists = {
 
+"Summer 1 Week 4": [
+  { word: "unhappy", definition: "not happy", examples: ["She looked ______ today.", "He felt ______ about the test."] },
+  { word: "unfair", definition: "not fair", examples: ["That rule is ______!", "It's ______ to cheat."] },
+  { word: "unarmed", definition: "not carrying weapons", examples: ["The man was ______.", "The guards were ______ at the gate."] },
+  { word: "unfasten", definition: "to undo or open something", examples: ["Please ______ your coat.", "He tried to ______ the buttons."] },
+  { word: "unwell", definition: "not feeling well", examples: ["I feel ______ today.", "She stayed home because she was ______."] },
+  { word: "undo", definition: "to take back or reverse", examples: ["Can you ______ the knot?", "Click here to ______ your last move."] },
+  { word: "unlock", definition: "to open a lock", examples: ["I will ______ the door.", "She forgot how to ______ her phone."] },
+  { word: "unbolt", definition: "to slide a bolt open", examples: ["He tried to ______ the gate.", "______ the door from inside."] },
+  { word: "unknown", definition: definition: "not known or familiar", examples: ["We took an ______ path.", "An ______ number called me."] },
+  { word: "unable", definition: "not able to do something", examples: ["I was ______ to lift it.", "He is ______ to attend."] },
+  { word: "unload", definition: "to take things out", examples: ["Time to ______ the car.", "We ______ the boxes from the van."] },
+  { word: "unfold", definition: "to open something folded", examples: ["Please ______ your map.", "She ______ the blanket."] },
+  { word: "unfit", definition: "not in good health or not suitable", examples: ["He was ______ to run.", "That toy is ______ for babies."] },
+  { word: "unhealthy", definition: "not healthy", examples: ["Eating too much cake is ______.", "That snack is ______."] },
+  { word: "untidy", definition: "not neat or clean", examples: ["Your room is ______.", "Pick up these ______ clothes."] },
+  { word: "unusual", definition: "not common or normal", examples: ["That’s an ______ pet.", "She wore an ______ dress."] },
+  { word: "unpopular", definition: "not liked by many", examples: ["The rule was ______.", "He was ______ at school."] },
+  { word: "untrained", definition: "not taught or prepared", examples: ["The dog is still ______.", "I’m ______ for that job."] }
+],
+
+"Summer 1 Week 6": [
+  { word: "the", definition: "used to point to a specific thing", examples: ["Close ______ door.", "I saw ______ dog outside."] },
+  { word: "to", definition: "shows direction or purpose", examples: ["Give it ______ her.", "We went ______ the shop."] },
+  { word: "said", definition: "spoke words aloud", examples: ["She ______ hello to me.", "He ______ it was time to go."] },
+  { word: "were", definition: "past form of 'are'", examples: ["They ______ happy.", "We ______ at the park."] },
+  { word: "his", definition: "belongs to a boy or man", examples: ["That is ______ bag.", "He lost ______ pencil."] },
+  { word: "a", definition: "one of something", examples: ["I saw ______ cat.", "She has ______ apple."] },
+  { word: "today", definition: "the current day", examples: ["We have P.E. ______.", "Is it sunny ______?"] },
+  { word: "says", definition: "talks or tells", examples: ["He ______ it’s time to eat.", "Mum ______ it’s bedtime."] },
+  { word: "was", definition: "past form of 'is'", examples: ["She ______ late.", "It ______ a good day."] },
+  { word: "has", definition: "owns or holds", examples: ["He ______ a new toy.", "She ______ a pet rabbit."] },
+  { word: "do", definition: "to act or perform something", examples: ["Can you ______ your work?", "What shall we ______ now?"] },
+  { word: "of", definition: "shows belonging or part", examples: ["A glass ______ water.", "A piece ______ cake."] },
+  { word: "are", definition: "present form of 'be'", examples: ["You ______ kind.", "We ______ going home."] },
+  { word: "is", definition: "tells what someone or something is", examples: ["She ______ my friend.", "The ball ______ red."] },
+  { word: "I", definition: "yourself when speaking", examples: ["______ am happy.", "______ like pizza."] },
+  { word: "you", definition: "the person being spoken to", examples: ["______ are funny!", "Can ______ help me?"] },
+  { word: "your", definition: "belonging to you", examples: ["Is this ______ book?", "I like ______ drawing."] },
+  { word: "they", definition: "a group of people or things", examples: ["______ are my friends.", "______ live next door."] }
+],
+
 "Summer 1 Week 7": [
   { word: "cats", definition: "more than one cat", examples: ["The ______ chased a mouse.", "Two black ______ sat on the wall."] },
   { word: "hunting", definition: "looking for animals or something to find", examples: ["They went ______ for treasure.", "The fox is ______ for food."] },
