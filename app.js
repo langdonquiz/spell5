@@ -614,7 +614,7 @@ const wordLists = {
   { word: "unusual", definition: "not common or normal", examples: ["That was an ______ sight.", "He wore an ______ hat."] },
   { word: "unpopular", definition: "not liked by many people", examples: ["The idea was ______ with the class.", "He felt ______ at school."] },
   { word: "untrained", definition: "not having the necessary skills or practice", examples: ["The ______ dog needed more lessons.", "She was ______ for the difficult task."] }
-]
+],
 
 
 
